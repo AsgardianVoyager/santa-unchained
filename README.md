@@ -4,6 +4,9 @@
 
 Repository prepared for backend workshop with AGH Kernel.
 
+Instruction:
+https://melon-particle-df0.notion.site/Santa-Unchained-INSTRUKCJA-1db090a5c20d4a2a859025f47b3959ad
+
 # Prerequisites
 
 - [Python3.10](https://www.python.org/downloads/)
